@@ -48,11 +48,17 @@ namespace HealthLife {
 		/// </summary>
 		void InitializeComponent(void)
 		{
-			this->components = gcnew System::ComponentModel::Container();
-			this->Size = System::Drawing::Size(300,300);
-			this->Text = L"Registro";
-			this->Padding = System::Windows::Forms::Padding(0);
+			this->SuspendLayout();
+			// 
+			// Registro
+			// 
+			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
+			this->ClientSize = System::Drawing::Size(594, 363);
+			this->Name = L"Registro";
+			this->Text = L"Registro";
+			this->ResumeLayout(false);
+
 		}
 #pragma endregion
 	};

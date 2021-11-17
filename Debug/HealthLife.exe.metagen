@@ -1,7 +1,5 @@
   HealthLife.Form1.resources - Embedded, ContainedInManifestFile, 
   HealthLife.Home.resources - Embedded, ContainedInManifestFile, 
-  HealthLife.Registro.resources - Embedded, ContainedInManifestFile, 
-  HealthLife.VentanaPrueba.resources - Embedded, ContainedInManifestFile, 
 ImageRuntimeVersion: v4.0.30319
 Assembly healthlife, Version=1.0.*, Culture=Todos los idiomas (todos los países): 
 	hash=SHA1, flags=PublicKey
@@ -227,15 +225,12 @@ Assembly System.Xml.XPath, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f
 	hash=None, flags=None
 Assembly System.Xml.XPath.XDocument, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
 	hash=None, flags=None
-Class HealthLife.VentanaPrueba: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+Class HealthLife.Home: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
 Class CppCLRWinformsProjekt.Form1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
 Class HealthLife.Registro: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
-  :System.Windows.Forms.Form
-    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
-Class HealthLife.Home: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
   :System.Windows.Forms.Form
     Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

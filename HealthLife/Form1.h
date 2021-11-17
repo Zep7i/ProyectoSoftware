@@ -1,4 +1,5 @@
 #pragma once
+#include "Home.h"
 
 namespace CppCLRWinformsProjekt {
 
@@ -275,8 +276,25 @@ namespace CppCLRWinformsProjekt {
 		*/
 	}
 	private: System::Void IniciarSesion_boton_Click_1(System::Object^ sender, System::EventArgs^ e) {
+		String^ sql = "SELECT * FROM data_user WHERE Apodo = '" + nombreLogin_box + "' AND Clave = '" + contrasenaLogin_box + "'";
+		MySqlCommand^ cursor = gcnew MySqlCommand(sql, conn);
+		MySqlDataReader^ dataReader;
 
+		try {
+			this->conn->Open();
+			dataReader = cursor->ExecuteReader();
+			if (dataReader->Read()) {
+				HealthLife::Home^ home_screen = gcnew HealthLife::Home();
+				home_screen->ShowDialog();
+			}
+			else {
+				this->errorLogin->Visible = true;
+			}
 
+		}
+		catch (Exception^ x) {
+			MessageBox::Show(x->Message);
+		}
 	}
 };
 }

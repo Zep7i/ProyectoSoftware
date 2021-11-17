@@ -184,6 +184,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.h</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.h</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro.resx">
+      <DependentUpon>Registro.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

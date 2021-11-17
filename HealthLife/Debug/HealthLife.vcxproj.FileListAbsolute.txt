@@ -10,7 +10,5 @@ C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxprojAssemblyRef
 C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\healthlife.exe.config
 C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Form1.resources
 C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Home.resources
-C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Registro.resources
 C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxproj.GenerateResource.cache
 C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxproj.CopyComplete
-C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.VentanaPrueba.resources
