@@ -1,0 +1,20 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  Home.cpp
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,15): error C2039: "Registro": no es un miembro de "HealthLife"
+C:\Users\olste\Desktop\HealthLife\HealthLife\VentanaPrueba.h(3): message : vea la declaración de 'HealthLife'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,1): error C2065: 'Registro': identificador no declarado
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,25): error C2065: 'window': identificador no declarado
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,52): error C2039: "Registro": no es un miembro de "HealthLife"
+C:\Users\olste\Desktop\HealthLife\HealthLife\VentanaPrueba.h(3): message : vea la declaración de 'HealthLife'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,1): error C2061: error de sintaxis: identificador 'Registro'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(284,3): error C2065: 'window': identificador no declarado
+  Registro.cpp
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,15): error C2039: "Registro": no es un miembro de "HealthLife"
+C:\Users\olste\Desktop\HealthLife\HealthLife\VentanaPrueba.h(3): message : vea la declaración de 'HealthLife'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,1): error C2065: 'Registro': identificador no declarado
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,25): error C2065: 'window': identificador no declarado
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,52): error C2039: "Registro": no es un miembro de "HealthLife"
+C:\Users\olste\Desktop\HealthLife\HealthLife\VentanaPrueba.h(3): message : vea la declaración de 'HealthLife'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(283,1): error C2061: error de sintaxis: identificador 'Registro'
+C:\Users\olste\Desktop\HealthLife\HealthLife\Form1.h(284,3): error C2065: 'window': identificador no declarado
+  Generando código...

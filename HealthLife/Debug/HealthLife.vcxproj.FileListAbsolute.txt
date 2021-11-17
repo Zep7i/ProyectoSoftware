@@ -1,0 +1,16 @@
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.vcxproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.Form1.resources
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.vcxproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\Documentos\HealthLife\Debug\HealthLife.exe.config
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.exe.config
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.Registro.resources
+C:\Users\ferna\OneDrive\Documentos\HealthLife\HealthLife\Debug\HealthLife.Home.resources
+C:\Users\olste\Desktop\HealthLife\Debug\healthlife.exe.config
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxprojAssemblyReference.cache
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\healthlife.exe.config
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Form1.resources
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Home.resources
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.Registro.resources
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxproj.GenerateResource.cache
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.vcxproj.CopyComplete
+C:\Users\olste\Desktop\HealthLife\HealthLife\Debug\HealthLife.VentanaPrueba.resources
